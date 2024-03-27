@@ -24,4 +24,3 @@
 ## Run
 
 #### To run program, just start `BZ DMAll.bat`.
-#### To DM everyone, just DM your bot with **only** your message.
