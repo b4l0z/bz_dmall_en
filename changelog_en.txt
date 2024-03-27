@@ -1,0 +1,5 @@
+v1.1
+    - Repair of installation .bat => deletion of bug who makes 2 node_modules.
+    - Fix bug who makes everyone DM All
+
+sorry for my bad english :/
