@@ -4,8 +4,8 @@
 ###### 🤖 _You must have admin perms to add the bot!_ 
 ###### ⚠️ _I'm not responsible for your uses. At your own risk._ 
 ###### 📱 _If you have problem, join my new [dev server](https://github.com/b4l0z/bz_dmall)._ 
-###### 🌟 _Add a star to support me!__
-###### 🇫🇷 __French Translation__
+###### 🌟 _Add a star to support me!_
+###### 🌍 _French Translation ?_
 
 ## Setup
 
