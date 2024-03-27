@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "console-log-colors": "^0.4.0",
+    "discord.js": "^14.14.1",
+    "package.json": "^2.0.1"
+  },
+  "author": {
+    "name": "BZ_Anodev",
+    "url": "https://github.com/b4l0z"
+  },
+  "version": "1.0.0"
+}
