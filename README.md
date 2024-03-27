@@ -10,7 +10,7 @@
 
 ###### 🌟 _Add a star to support me!_
 
-###### 🌍 _French Translation ?_
+###### 🌍 _English version_
 
 ## Setup
 
