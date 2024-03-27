@@ -1,0 +1,14 @@
+{
+  "token": "",
+  "activity": "",
+  "statut": {
+    "online": false,
+    "idle": false,
+    "do_not_disturb": false
+  },
+  "id": {
+    "ping_test": "",
+    "server": "",
+    "your_id": ""
+  }
+}
