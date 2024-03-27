@@ -1,0 +1,3 @@
+v1.1
+    - Changement du .bat d'installation => suppression du bug de duplication node_modules
+    - Fix du bug qui permettait à tout le monde de DM All
